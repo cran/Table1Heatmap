@@ -1,0 +1,2 @@
+export(plotTable1Heatmap)
+importFrom(colorRamps, blue2yellow)
