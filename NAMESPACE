@@ -1,2 +1,4 @@
 export(plotTable1Heatmap)
 importFrom(colorRamps, blue2yellow)
+importFrom("graphics", "abline", "axis", "box", "image", "legend","par", "text")
+importFrom("stats", "chisq.test", "fisher.test")
